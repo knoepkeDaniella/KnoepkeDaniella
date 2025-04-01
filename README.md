@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋  I'm Yasmin 
 
-<!--
-**knoepkeDaniella/KnoepkeDaniella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+💻 Web Developer | ⚡ programming student | 🎓 student of systems analysis and development
 
-Here are some ideas to get you started:
+## 🛠️ I am studying and working
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Javascript |
+ HTML |
+ Tailwind CSS |
+ Vue/ Vite |
+ C
+ 
+ ## 📊 Estatístics GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=knoepkeDaniella&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=knoepkeDaniella&theme=radical"/>
+</div>
+
+
